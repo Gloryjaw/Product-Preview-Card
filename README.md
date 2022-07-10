@@ -40,7 +40,7 @@ Users should be able to:
 
 
 ### What I learned
-I learned to use images as flex items. It was little harder than I thought but I had lot of fun making it.
+I learned to use images as flex items. It was little harder than I thought but I had lot of fun making it.Images as flex items are not responsive.
 
 
 ### Continued development
